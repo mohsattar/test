@@ -3,6 +3,8 @@ import pyodbc
 import requests
 import pandas as pd
 
+#updated 1
+
 startTime = datetime.now()
 
 conn = pyodbc.connect('Driver={SQL Server};'
